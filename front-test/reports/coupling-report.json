@@ -1,0 +1,8 @@
+{
+  "averageCoupling": "3.45",
+  "maxCoupling": 18,
+  "mostCoupledFile": "features/student/path_dashboard/completed_quiz/completed-quiz.tsx",
+  "totalModules": 682,
+  "circularDependencies": 0,
+  "circularDetails": []
+}

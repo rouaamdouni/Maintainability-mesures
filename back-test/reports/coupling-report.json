@@ -1,0 +1,13 @@
+{
+  "averageCoupling": "4.93",
+  "maxCoupling": 139,
+  "mostCoupledFile": "modules/app.module.ts",
+  "totalModules": 905,
+  "circularDependencies": 1,
+  "circularDetails": [
+    [
+      "modules/members/members.module.ts",
+      "modules/rooms/rooms.module.ts"
+    ]
+  ]
+}

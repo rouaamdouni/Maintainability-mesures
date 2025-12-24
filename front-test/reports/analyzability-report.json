@@ -1,0 +1,8 @@
+{
+  "logCoverage": "1.79%",
+  "documentationCoverage": "7.56%",
+  "totalFunctions": 671,
+  "functionsWithLogs": 12,
+  "totalFiles": 675,
+  "documentedFiles": 51
+}
